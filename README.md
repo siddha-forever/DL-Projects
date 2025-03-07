@@ -21,7 +21,7 @@ A collection of Deep Learning projects implemented using Jupyter Notebook. Each 
 
 ### 4. Sentiment Analysis - IMDB Movie Reviews
 - Performs sentiment analysis on IMDB movie reviews using deep learning.
-- Uses recurrent neural networks (RNNs) and LSTMs for text classification.
+- Uses LSTMs for text classification.
 - Classifies reviews as positive or negative based on sentiment.
 
 ## Installation and Usage
