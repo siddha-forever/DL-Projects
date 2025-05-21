@@ -24,6 +24,12 @@ A collection of Deep Learning projects implemented using Jupyter Notebook. Each 
 - Uses LSTMs for text classification.
 - Classifies reviews as positive or negative based on sentiment.
 
+### 5. Fire Detection in Image using YOLOv9
+- Detects fire in static images using the YOLOv9 object detection model.
+- Trained on a custom fire dataset created and annotated using **Roboflow**.
+- Employs the YOLOv9 architecture for high-speed and accurate fire detection.
+- Suitable for integration into surveillance systems and early fire warning mechanisms.
+
 ## Installation and Usage
 
 1. Clone the repository:
